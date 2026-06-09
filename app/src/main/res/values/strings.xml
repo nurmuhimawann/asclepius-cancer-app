@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Cancer Detection</string>
+    <string name="gallery">Upload Scan Image</string>
+    <string name="analyze">Analyze</string>
+    <string name="result">Detection Results</string>
+    <string name="image">image</string>
+    <string name="image_classifier_failed">Failed to initialize the cancer detection model. Check the error logs for details.</string>
+    <string name="no_relevant_results_found">No diagnostic information found.</string>
+    <string name="cancer">Potential Cancer</string>
+    <string name="non_cancer">No Cancer</string>
+    <string name="select_an_image">Please upload a medical image first</string>
+    <string name="crop_image">Adjust Scan Area</string>
+    <string name="crop_failed">Unable to crop the selected image</string>
+    <string name="confidence_score_format">%1$.2f%%</string>
+    <string name="result_analyze">Analysis: %1$s (%2$s)</string>
+    <string name="latest_news">Health Research News</string>
+    <string name="lorem_ipsum">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</string>
+    <string name="by">reviewed by %s</string>
+    <string name="history">Detection History</string>
+    <string name="results">Scan Results</string>
+    <string name="delete_all">Remove All Records</string>
+    <string name="no_data">No Detection History Available</string>
+</resources>
